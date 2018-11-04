@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "sborislav/levelsranks": "^2.0-dev",
+        "sborislav/levelsranks": "^2.0-dev"
     }
 }
