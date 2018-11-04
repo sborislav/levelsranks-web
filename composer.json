@@ -1,0 +1,15 @@
+{
+    "name": "sborislav/levelsranks-web",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sborislav",
+            "email": "mail@sborislav.xyz",
+            "homepage": "https://sborislav.xyz/"
+        }
+    ],
+    "require": {
+        "sborislav/levelsranks": "^2.0-dev",
+    }
+}
